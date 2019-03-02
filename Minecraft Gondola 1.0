@@ -1,0 +1,1 @@
+summon minecraft:minecart 15 56 13 {Passengers:[{id:"minecraft:armor_stand", Invisible:1, Passengers:[{id:"minecraft:minecart", CustomDisplayTile:1, DisplayState:{Name:"minecraft:jungle_fence"}, NoGravity:1, DisplayOffset:36}]}]}
